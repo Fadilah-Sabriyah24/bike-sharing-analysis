@@ -1,1 +1,1 @@
-Belum di-deploy. Isi URL publik setelah berhasil deploy di Streamlit Community Cloud.
+https://bike-sharing-dicoding-ilaa.streamlit.app/
