@@ -31,9 +31,4 @@ Dataset mentah tanpa missing value/duplikasi identik. Tanggal distandarkan menja
 ## Deploy Streamlit Community Cloud (opsional untuk skor lebih tinggi)
 Unggah isi folder `submission` ke repositori GitHub, pilih entry point `dashboard/dashboard.py` di Streamlit Community Cloud, pastikan requirements dan dataset CSV dashboard ikut terunggah. Setelah situs benar-benar aktif, simpan URL lengkap pada `url.txt`.
 
-## Checklist sebelum submit
-- [ ] Ganti identitas dalam notebook.
-- [ ] Jalankan semua cell notebook, simpan output dan pastikan tanpa error.
-- [ ] Jalankan dashboard secara lokal.
-- [ ] Pastikan semua berkas masuk ZIP.
-- [ ] Jika deployment dilakukan, isi `url.txt` dengan tautan aktif.
+
